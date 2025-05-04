@@ -1,11 +1,11 @@
 # 🍽️ Recipe Finder – JavaFX UI Project
 
-This is a completed JavaFX GUI project developed as part of my **Java programming course**. The application allows users to select a meal type and enter ingredients to receive a suggested recipe based on their available ingredients.
+This is a completed JavaFX GUI project developed as part of my **Java programming course**. The application allows users to select a meal type and enter ingredients to receive a suggested recipes based on their available ingredients.
 
 ## ✅ What It Does
 - Lets users select **Breakfast, Lunch, or Dinner**
 - Users can input a list of ingredients
-- Displays a recipe suggestion based on the selected meal and the availble ingredients.
+- Displays a recipe suggestion based on the selected meal and the available ingredients.
 
 ## 🖥️ Built With
 - Java (JDK 21)
