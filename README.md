@@ -55,6 +55,24 @@ This project was created as a hands-on assignment to apply:
 
 
 
+## 📸 Screenshot of the files that we stored information in:
+
+
+
+![image](https://github.com/user-attachments/assets/2e70b009-20e6-4066-b8aa-c29d2f109f82)
+
+
+
+
+![image](https://github.com/user-attachments/assets/d03c7b79-7669-45a4-987b-ad9cc030f1dd)
+
+
+
+
+![image](https://github.com/user-attachments/assets/692fbbea-a78b-4e99-99e9-f623d80c64c8)
+
+
+
 
 ## 📄 Status
 ✔️ Project is complete  
